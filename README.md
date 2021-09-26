@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Khushi-Agrawal-1
+- 👋 Hi, I’m Khushi Agrawal
 - 👀 I’m interested in mobile app development, data analysics.
-- 🌱 I’m currently learning dart. 
+- 🌱 I’m currently learning ReactJS. 
 - 💞️ I’m looking to collaborate on real world projects.
 - 📫 How to reach me 
 https://www.linkedin.com/in/khushi-agrawal-2019/
